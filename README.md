@@ -1,4 +1,4 @@
-# Python Testing Cookbook — Second Edition
+# Python Testing Cookbook - Second Edition
 
 <a href="https://www.packtpub.com/application-development/python-testing-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787122529 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06930.png" alt="Python Testing Cookbook - Second Edition" height="256px" align="right"></a>
 
