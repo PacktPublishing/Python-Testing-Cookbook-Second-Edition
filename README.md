@@ -36,7 +36,7 @@ unittest.TextTestRunner(verbosity=2).run(suite)
 **Following is what you need for this book:**
 If you’re a Python developer who wants to take testing to the next level and would like to expand your testing skills, this book is for you. It is assumed that you have some Python programming knowledge.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
